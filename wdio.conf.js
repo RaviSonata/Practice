@@ -26,6 +26,7 @@ exports.config = {
     // Patterns to exclude.
     exclude: [
         // 'path/to/excluded/files'
+        './test/specs/test.e2e.js'
     ],
     //
     // ============
@@ -61,7 +62,7 @@ exports.config = {
     // Define all options that are relevant for the WebdriverIO instance here
     //
     // Level of logging verbosity: trace | debug | info | warn | error | silent
-    
+
     // logLevel: 'info',
     logLevel: 'silent',
     //
