@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "chai": "^5.1.1",
     "firefox": "^0.0.1",
     "mocha": "^10.4.0",
     "selenium-standalone": "^9.5.0",
